@@ -26,4 +26,6 @@ To install WorkoutNotes, clone this repository and import the project into Andro
 
 Contact
 For support or any questions, feel free to contact us at kovendhanelango@gmail.com
+
+Screenshot of primary version:
 ![image](https://github.com/KoviElango/WorkoutNotes/assets/151704614/9dd61d00-ce87-4afd-b782-e5c280f0dfae)
